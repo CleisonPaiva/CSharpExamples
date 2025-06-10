@@ -1,0 +1,14 @@
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.AssemblyInfo.cs
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\bin\Debug\net9.0\05-AbstractionExample.exe
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\bin\Debug\net9.0\05-AbstractionExample.deps.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\bin\Debug\net9.0\05-AbstractionExample.runtimeconfig.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\bin\Debug\net9.0\05-AbstractionExample.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\bin\Debug\net9.0\05-AbstractionExample.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\refint\05-AbstractionExample.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\05-AbstractionExample.genruntimeconfig.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\05-AbstractionExample\obj\Debug\net9.0\ref\05-AbstractionExample.dll

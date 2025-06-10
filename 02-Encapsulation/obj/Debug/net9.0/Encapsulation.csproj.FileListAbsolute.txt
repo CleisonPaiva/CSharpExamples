@@ -1,0 +1,14 @@
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
