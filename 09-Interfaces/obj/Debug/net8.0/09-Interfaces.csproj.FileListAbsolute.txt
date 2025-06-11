@@ -1,0 +1,15 @@
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\bin\Debug\net8.0\09-Interfaces.exe
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\bin\Debug\net8.0\09-Interfaces.deps.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\bin\Debug\net8.0\09-Interfaces.runtimeconfig.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\bin\Debug\net8.0\09-Interfaces.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\bin\Debug\net8.0\09-Interfaces.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.AssemblyInfo.cs
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.sourcelink.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\refint\09-Interfaces.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\09-Interfaces.genruntimeconfig.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\09-Interfaces\obj\Debug\net8.0\ref\09-Interfaces.dll

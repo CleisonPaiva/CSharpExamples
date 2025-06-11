@@ -1,0 +1,15 @@
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\bin\Debug\net8.0\06-ConstructorInheritance.exe
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\bin\Debug\net8.0\06-ConstructorInheritance.deps.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\bin\Debug\net8.0\06-ConstructorInheritance.runtimeconfig.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\bin\Debug\net8.0\06-ConstructorInheritance.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\bin\Debug\net8.0\06-ConstructorInheritance.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.AssemblyInfo.cs
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.sourcelink.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\refint\06-ConstructorInheritance.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\06-ConstructorInheritance.genruntimeconfig.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\06-ConstructorInheritance\obj\Debug\net8.0\ref\06-ConstructorInheritance.dll

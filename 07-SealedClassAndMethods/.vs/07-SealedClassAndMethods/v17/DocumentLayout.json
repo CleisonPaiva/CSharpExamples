@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleison.paiva\\Desktop\\workspace\\CSharpExamples\\07-SealedClassAndMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA3B5E-6D2F-473E-BD1B-6F6F51BE7A1C}|07-SealedClassAndMethods.csproj|c:\\users\\cleison.paiva\\desktop\\workspace\\csharpexamples\\07-sealedclassandmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA3B5E-6D2F-473E-BD1B-6F6F51BE7A1C}|07-SealedClassAndMethods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleison.paiva\\Desktop\\workspace\\CSharpExamples\\07-SealedClassAndMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cleison.paiva\\Desktop\\workspace\\CSharpExamples\\07-SealedClassAndMethods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:04:08.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

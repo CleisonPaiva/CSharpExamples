@@ -1,0 +1,15 @@
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\bin\Debug\net8.0\07-SealedClassAndMethods.exe
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\bin\Debug\net8.0\07-SealedClassAndMethods.deps.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\bin\Debug\net8.0\07-SealedClassAndMethods.runtimeconfig.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\bin\Debug\net8.0\07-SealedClassAndMethods.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\bin\Debug\net8.0\07-SealedClassAndMethods.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.AssemblyInfo.cs
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.sourcelink.json
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\refint\07-SealedClassAndMethods.dll
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.pdb
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\07-SealedClassAndMethods.genruntimeconfig.cache
+C:\Users\cleison.paiva\Desktop\workspace\CSharpExamples\07-SealedClassAndMethods\obj\Debug\net8.0\ref\07-SealedClassAndMethods.dll
